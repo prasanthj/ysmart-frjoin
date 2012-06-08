@@ -5,4 +5,4 @@ Map-side fragment replicated join support for YSmart. The smallest table (should
 
 For latest updates refer the project site http://ysmart.cse.ohio-state.edu/
 
-Disclaimer: This is a part of class project implementation. Not tested for production use.
+NOTE: This is a part of class project implementation. Not tested for production use.
